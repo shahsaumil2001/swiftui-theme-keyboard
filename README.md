@@ -1,7 +1,7 @@
 ## Themeboad App
 swiftui-themeboard-app is a unique application that showcases various keyboard input types and use-cases along with supporting the dark-light theme.
 
-https://github.com/user-attachments/assets/015ebea7-a5cd-42a8-8a77-0c3874bf9bd1
+https://github.com/user-attachments/assets/c1331a0b-a11b-4abc-b637-864e6ee77bd6
 
 ## Technology Stack
 - Language: SwiftUI
